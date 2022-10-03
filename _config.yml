@@ -1,0 +1,14 @@
+remote_theme: coursweb/jk-theme
+title: Teams pour l'enseignement
+description: Module de cours sur la créativité.
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2022</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/ms-studio/teams-enseignement">Lien Github</a></li></ul>

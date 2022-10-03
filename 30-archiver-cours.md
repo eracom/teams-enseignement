@@ -8,7 +8,7 @@ permalink: archivage.html
 
 Depuis l'année 2021-22, les groupes Teams des classes sont conservés d'une année à l'autre. Il est donc nécessaire, lorsqu'un cours se termine, de faire une procédure d'archivage.
 
-Pour les anciens cours, voici la procédure recommandée:
+Une fois le cours terminé, voici la procédure recommandée pour archiver les données:
 
-- Déplacer les fichiers depuis le canal du cours vers le canal Général, dans un dossier Archives. Ce processus est plus facile via Sharepoint ("ouvrir dans Sharepoint"), où on a accès à l'action "Déplacer vers".
-- Une fois les fichiers déplacés, il faut supprimer le canal du cours. Ainsi on éviter de se retrouver une longue liste de canaux inactifs.
+- Déplacer les fichiers depuis le canal dédié du cours vers le canal *Général*, dans un dossier Archives. Ce processus est plus facile via Sharepoint ("ouvrir dans Sharepoint"), où vous pourrez utiliser l'action "Déplacer vers".
+- Une fois les fichiers déplacés, il est important de supprimer le canal du cours. Il faut éviter de se retrouver avec une longue liste de canaux inactifs.

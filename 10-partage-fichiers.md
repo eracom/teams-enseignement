@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Utilisation de Teams
-permalink: partage-fichiers.html
+permalink: utiliser-teams.html
 ---
 
 Conseils pour travailler avec Teams dans un contexte pédagogique

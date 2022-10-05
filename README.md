@@ -1,4 +1,4 @@
-# teams-enseignement
+# Teams pour l'enseignement
 
 Teams pour l'enseignement
 

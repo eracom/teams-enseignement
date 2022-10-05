@@ -1,10 +1,10 @@
 remote_theme: coursweb/jk-theme
 title: Teams pour l'enseignement
-description: Module de cours sur la créativité.
+description: Utilisation de Teams dans l'enseignement
 lang: fr-FR
 chapters:
- - title: Cours-web
-   url: https://cours-web.ch/
+ # - title: Cours-web
+ #  url: https://cours-web.ch/
 
    # Footer content
 # Content is split in three columns.   

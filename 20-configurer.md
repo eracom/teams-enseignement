@@ -16,6 +16,7 @@ Astuces pour optimiser l'affichage des équipes:
 
 <iframe width="100%" style="aspect-ratio:4/3" src="https://www.youtube-nocookie.com/embed/9wp1mrlhvFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
 Des icônes des classes ID se trouvent dans ce document Figma [https://www.figma.com/file/jLlliwkpH2sBLiNMMVXoAU/Github-icons](https://www.figma.com/file/jLlliwkpH2sBLiNMMVXoAU/Github-icons)
 
 

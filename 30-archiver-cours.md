@@ -17,7 +17,7 @@ Le but de cette opération:
 
 À la fin du semestre, voici la procédure recommandée pour archiver les données de votre cours:
 
-1. Dans votre aborescence, créez un dossier dans lequel vous rangez tous les fichiers de votre cours. **Nommez votre dossier** en indiquant le semestre (S1, S2...), nom du cours, votre nom abrégé. Exemple: "S1 - Culture Visuelle 1 - SMagnenat" ou "S2 - Projet Son - FBlakaj". .
+1. Dans votre aborescence, créez un dossier dans lequel vous rangez tous les fichiers de votre cours. **Nommez votre dossier** en indiquant le semestre (S1, S2...), nom du cours, votre nom abrégé. Exemple: "S1 - Culture Visuelle 1 - SMagnenat" ou "S2 - Projet Son - FBlakaj".
 2. **Déplacez ce dossier** depuis votre canal dédié vers le canal *Général*, dans un dossier *Archives*. Conseil: utiliser l'action "Déplacer vers".
 3. Choisissez parmi les dossiers *Archives Cours Communication* / *Archives Cours Interfaces* / *Archives Cours Audiovisuel*. Créez le dossier s'il n'existe pas encore.
 4. Une fois les fichiers déplacés, il est important de **supprimer le canal** de votre cours terminé. Cela évite d'accumuler les canaux inactifs.

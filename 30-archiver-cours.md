@@ -6,7 +6,7 @@ permalink: archivage.html
 
 ## Archiver les anciens cours dans Teams
 
-Depuis l'année 2021-22, les groupes Teams des classes sont conservés d'une année à l'autre. Pour maintenir de l'ordre, il est donc nécessaire, lorsqu'un cours se termine, de faire une procédure d'archivage.
+Depuis l'année 2021-22, les groupes Teams des classes Eracom sont conservés d'une année à l'autre. Pour maintenir de l'ordre, il est donc nécessaire, lorsqu'un cours se termine, de faire une procédure d'archivage.
 
 Le but de cette opération:
 - Un endroit unique pour les archives.

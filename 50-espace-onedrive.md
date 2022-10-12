@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Espage OneDrive
+title: Espace OneDrive
 permalink: espace-onedrive.html
 ---
 

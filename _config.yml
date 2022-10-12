@@ -2,6 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Teams pour l'enseignement
 description: Utilisation de Teams dans l'enseignement
 lang: fr-FR
+robots: noindex, nofollow
 chapters:
  # - title: Cours-web
  #  url: https://cours-web.ch/

@@ -13,7 +13,7 @@ permalink: devoirs.html
 
 ### Création depuis un questionnaire Forms
 
-Un devoir peut être créé à partir d'un questionnaire que vous aurez créé dans Forms. Cela peut être utilisé pour une évaluation formative (vérification des connaissances), pour pour une évaluation notée.
+Un devoir peut être créé à partir d'un questionnaire que vous aurez créé dans Forms. Cela peut être utilisé pour une évaluation formative (vérification des connaissances), ou pour une évaluation notée.
 
 Voir [Utiliser Microsoft Forms](https://eduvaud.sharepoint.com/:w:/s/ERACOM_ID_Teams/Ef69JVM9wzVOmf2SYBAuV74B2XvIuB8rleZosU2id4bg-Q?e=qFzuCc) pour plus de détails.
 

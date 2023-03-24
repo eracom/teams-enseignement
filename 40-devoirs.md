@@ -11,6 +11,10 @@ permalink: devoirs.html
 - Pour les enseignant-es: [Créer un devoir dans Teams](https://support.microsoft.com/fr-fr/topic/cr%C3%A9er-un-devoir-dans-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be) (Microsoft)
 - Pour les élèves: [Rendre un devoir dans Teams](https://support.microsoft.com/fr-fr/topic/rendre-un-devoir-dans-microsoft-teams-e25f383a-b747-4a0b-b6d5-a2845a52092b) (Microsoft)
 
+### 📺 Voir un tutoriel vidéo
+
+[Lien du tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EY5hnIa6mw5FsTVGHzu9jmEBvEJVHx9YvhSDvoQgzEFhiw?e=hg3Sgt)
+
 ### Création depuis un questionnaire Forms
 
 Un devoir peut être créé à partir d'un questionnaire que vous aurez créé dans Forms. Cela peut être utilisé pour une évaluation formative (vérification des connaissances), ou pour une évaluation notée.

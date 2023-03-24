@@ -13,6 +13,10 @@ Le but de cette opération:
 - Ranger les fichiers de manière cohérente.
 - Réduire la charge mentale pour les élèves, en éliminant les canaux des cours passés.
 
+### 📺 Voir un tutoriel vidéo
+
+[Lien du tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EaUN6n4QDS5Amzb4BdlQcCEB9DpIndkhCZbTXA4zQZdzfw?e=v32tPi)
+
 ### Procédure d'archivage
 
 À la fin du semestre, voici la procédure recommandée pour archiver les données de votre cours (supports de cours, documents informatifs, briefs des projets passés).

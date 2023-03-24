@@ -10,7 +10,7 @@ Conseils pour travailler avec Teams dans un contexte pédagogique
 
 <iframe width="100%" style="aspect-ratio:16/9"  src="https://eduvaud.sharepoint.com/sites/ERACOM_ID_Teams/_layouts/15/embed.aspx?UniqueId=b680a9bb-a0f8-480f-a993-f81403e00b56&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Teams démarrage.mp4"></iframe>
 
-Vidéo de 12 minutes, enregistrée le 12 octobre 2022 par Manuel Schmalstieg et Vincent Belet.
+Vidéo de 12 minutes, enregistrée en octobre 2022 par Manuel Schmalstieg et Vincent Belet.
 
 ## Le partage de fichiers
 

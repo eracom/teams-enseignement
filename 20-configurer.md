@@ -24,6 +24,6 @@ Des icônes des classes ID se trouvent dans ce document Figma [https://www.figma
 
 Il est possible d'ajouter dans votre canal un onglet vers une ressource, p.ex. un site web de référence important pour votre cours.
 
-Voici une explication en vidéo:
+Voici une explication en vidéo (avec l'aimable participation d'Adrien Cater):
 
 <iframe width="100%" style="aspect-ratio:4/3" src="https://www.youtube-nocookie.com/embed/B5t5SSxDHIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

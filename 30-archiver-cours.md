@@ -15,9 +15,9 @@ Le but de cette opération:
 
 ### 📺 Voir un tutoriel vidéo
 
-<iframe width="100%" style="aspect-ratio:16/9" src="https://eduvaud.sharepoint.com/sites/ERACOM_ID_Teams/_layouts/15/embed.aspx?UniqueId=7eea0da5-0d10-402e-9b36-f805d9507021&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Tuto Archivage Teams.mp4"></iframe>
+Voici un [tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EaUN6n4QDS5Amzb4BdlQcCEB9DpIndkhCZbTXA4zQZdzfw?e=v32tPi) (avec l'aimable participation de Viviane Morey):
 
-[Lien du tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EaUN6n4QDS5Amzb4BdlQcCEB9DpIndkhCZbTXA4zQZdzfw?e=v32tPi)
+<iframe width="100%" style="aspect-ratio:16/9" src="https://eduvaud.sharepoint.com/sites/ERACOM_ID_Teams/_layouts/15/embed.aspx?UniqueId=7eea0da5-0d10-402e-9b36-f805d9507021&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Tuto Archivage Teams.mp4"></iframe>
 
 ### Procédure d'archivage
 

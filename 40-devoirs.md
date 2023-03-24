@@ -13,7 +13,7 @@ permalink: devoirs.html
 
 ### 📺 Voir un tutoriel vidéo
 
-[Lien du tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EY5hnIa6mw5FsTVGHzu9jmEBvEJVHx9YvhSDvoQgzEFhiw?e=hg3Sgt)
+<iframe width="100%" style="aspect-ratio:16/9" src="https://eduvaud.sharepoint.com/sites/ERACOM_ID_Teams/_layouts/15/embed.aspx?UniqueId=869c618e-9bba-450e-b135-461f3bbd8e61&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Teams creer un devoir.mp4"></iframe>
 
 ### Création depuis un questionnaire Forms
 

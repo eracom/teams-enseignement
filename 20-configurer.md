@@ -22,7 +22,15 @@ Des icônes des classes ID se trouvent dans ce document Figma [https://www.figma
 
 ## Configurer son canal
 
-Il est possible d'ajouter dans votre canal un onglet vers une ressource, p.ex. un site web de référence important pour votre cours.
+Il est recommandé à l'enseignant-e de créer un **Canal dédié** pour son cours, ce qui permet d'utiliser l'espace de Publication et un espace Fichiers dédié.
+
+Chaque canal dispose d'espaces dédiés pour:
+
+- Publications
+- Fichiers
+- Devoirs
+
+Vous pouvez également ajouter un onglet supplémentaire, p.ex. un lien vers un site web de référence.
 
 Voici une explication en vidéo (avec l'aimable participation d'Adrien Cater):
 

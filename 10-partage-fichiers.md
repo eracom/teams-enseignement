@@ -4,7 +4,8 @@ title: Utilisation de Teams
 permalink: index.html
 ---
 
-Conseils pour travailler avec Teams dans un contexte pédagogique
+Conseils pour travailler avec Teams dans un contexte pédagogique.  
+Si les vidéos ne chargent pas, aller sur [office.com](https://office.com) pour vous authentifier.
 
 ## Explication vidéo "Prise en main de Teams"
 

@@ -30,7 +30,7 @@ Dans une équipe-classe partagée par plusieurs enseignant·es, il est important
   - ✅ dans l'onglet Fichiers *de votre canal dédié*.
   - 🚫 pas dans le canal Général.
 
-La vidéo suivante explique ces recommandations pour le partage de fichiers. Cette vidéo accompagne [le document de synthèse préparé pour l'eracom](https://eduvaud.sharepoint.com/:b:/r/sites/ERACOM/Administration/Office%20365%20ERACOM/O365_Enseignant_ERACOM%20v2.pdf?csf=1&web=1&e=SeGApV) (document PDF de 58 pages, créé par l'Eracom, janvier 2021).
+La vidéo suivante explique ces recommandations pour le partage de fichiers. Cette vidéo accompagne [le document de synthèse préparé pour l'eracom](pdf/O365_Enseignant_ERACOM_v2.pdf) (document PDF de 58 pages, créé par l'Eracom, janvier 2021).
 
 <iframe width="100%" style="aspect-ratio:16/9" src="https://www.youtube-nocookie.com/embed/CHz-817BKFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

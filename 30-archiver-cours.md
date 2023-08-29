@@ -17,7 +17,7 @@ Le but de cette opération:
 
 Voici un [tutoriel vidéo](https://vimeo.com/858698289/5265a8e854?share=copy) (avec l'aimable participation de Viviane Morey):
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/858698289?h=5265a8e854" width="100%" style="aspect-ratio:16/9" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/858698289?h=5265a8e854" width="100%" style="aspect-ratio:2376/1602" frameborder="0"    allowfullscreen></iframe>
 
 ### Procédure d'archivage
 

@@ -17,7 +17,7 @@ Le but de cette opération:
 
 Voici un [tutoriel vidéo](https://vimeo.com/858698289/5265a8e854?share=copy) (avec l'aimable participation de Viviane Morey):
 
-<iframe width="100%" style="aspect-ratio:16/9" src="https://eduvaud.sharepoint.com/sites/ERACOM_ID_Teams/_layouts/15/embed.aspx?UniqueId=7eea0da5-0d10-402e-9b36-f805d9507021&embed=%7B%22hvm%22%3Atrue%2C%22ust%22%3Atrue%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Tuto Archivage Teams.mp4"></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/858698289?h=5265a8e854" width="100%" style="aspect-ratio:16/9" frameborder="0"    allowfullscreen></iframe>
 
 ### Procédure d'archivage
 

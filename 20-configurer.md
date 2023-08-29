@@ -14,8 +14,6 @@ Astuces pour optimiser l'affichage des équipes:
 2. Trier par ordre d'importance.
 3. Attribuer des icônes aux équipes.
 
-<iframe width="100%" style="aspect-ratio:4/3" src="https://www.youtube-nocookie.com/embed/9wp1mrlhvFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/858682513?h=5012789fd9" width="100%" style="aspect-ratio:4/3" frameborder="0"    allowfullscreen></iframe>
 
 <br/>

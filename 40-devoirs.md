@@ -4,7 +4,7 @@ title: Devoirs
 permalink: devoirs.html
 ---
 
-**Clarification:** les "Devoirs" dans Teams sont une fonctionnalité permettant de récolter des productions d'élèves, de manière centralisée. Malgré leur intitulé, ils ne sont pas dédiés aux "devoirs à domicile". Considérez les plutôt comme des "Rendus". Le terme anglais est "Assignments".
+**Clarification:** les "Devoirs" dans Teams sont une fonctionnalité permettant de récolter des productions d'élèves, de manière centralisée. Malgré leur intitulé, ils ne sont pas réservés aux "devoirs à domicile" uniquement. Considérez les plutôt comme des "Rendus". Le terme anglais est "Assignments".
 
 ## Création d'un devoir
 
